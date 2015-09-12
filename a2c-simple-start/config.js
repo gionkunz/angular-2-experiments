@@ -10,6 +10,7 @@ System.config({
   map: {
     "angular2": "npm:angular2@2.0.0-alpha.37",
     "core-js": "npm:core-js@1.1.4",
+    "corejs": "npm:corejs@0.1.4",
     "reflect-metadata": "npm:reflect-metadata@0.1.1",
     "typescript": "npm:typescript@1.6.0-dev.20150912",
     "zone.js": "npm:zone.js@0.5.5",
