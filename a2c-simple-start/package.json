@@ -1,0 +1,39 @@
+{
+  "name": "a2c-simple-start",
+  "version": "0.0.1",
+  "description": "Simple Angular 2 Components Start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gionkunz/angular-2-components.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gionkunz/angular-2-components/issues"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "components"
+  ],
+  "author": "Gion Kunz",
+  "license": "MIT",
+  "devDependencies": {
+    "jspm": "^0.16.2"
+  },
+  "jspm": {
+    "directories": {},
+    "dependencies": {
+      "angular2": "npm:angular2@^2.0.0-alpha.37",
+      "core-js": "npm:core-js@^1.1.4",
+      "corejs": "npm:corejs@^0.1.4",
+      "reflect-metadata": "npm:reflect-metadata@^0.1.1",
+      "zone.js": "npm:zone.js@^0.5.5"
+    },
+    "devDependencies": {
+      "typescript": "npm:typescript@^1.6.0-dev.20150818"
+    }
+  }
+}
